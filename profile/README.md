@@ -1,1 +1,1 @@
-Just some Devs valuing DX, elegant code and minimal interferrence to existing logic.
+Just some Devs valuing DX, elegant code and minimal interference to existing logic.
